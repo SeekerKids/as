@@ -1,0 +1,69 @@
+ancient pin
+ water asteroid 2
+ fire asteroid 2
+ water essence 5
+
+ancient bracket
+ earth asteroid 2
+ water asteroid 2
+ earth essence 5
+
+ancient hinge
+ fire asteroid 2
+ wind asteroid 2
+ fire essence 5
+
+ancient lens
+ wind asteroid 2
+ earth asteroid 2
+ wind essence 5
+
+
+wind asteroid 
+ wind essence 20
+ fire essence 5
+ asteroid 1
+
+earth asteroid
+ earth essence 20
+ water essence 5
+ asteroid 1
+
+fire asteroid
+ fire essence 20
+ earth essence 5
+ asteroid 1
+
+water asteroid
+ water essence 20
+ wind essence 5
+ asteroid 1
+
+
+ances tesseract of dimension (biru)
+ crystalize of reality 1
+ ancient of bracket 2
+ ancient of pin 5
+
+ances lens of riches (merah)
+ crystalize of wealth 1
+ ancient of pin 2
+ ancient of hinge 5
+
+ances seed of life (ijo)
+ crystalize of nature 1
+ ancient of lens 2
+ ancient of bracket 5
+
+ances orb of time (ungu)
+ crystalize of time 1
+ ancient of lens 2
+ ancient of pin 5
+
+ances totem of wisdom (kuning)
+ crystalize of nature 1
+ ancient of hinge 2
+ ancient of lens 5
+
+755.820
+606.900
